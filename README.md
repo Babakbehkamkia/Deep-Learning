@@ -3,7 +3,7 @@
 
 ## HW1
 
-This assignment was an introduction for Tensorflow and pytorch.
+This assignment was an introduction to Tensorflow and pytorch.
 
 
 
