@@ -44,3 +44,18 @@ In the last question of this assignment, I needed to tune the hyperparameters of
 
 Then, I trained the model with the best parameters and computed its accuracy and f1-score.
 In the last part, I plot the confusion matrix.
+
+
+## Project
+
+In the final project of this course, I used data augmentation methods used in [The Effectiveness of Image Augmentation in Deep Learning Networks for Detecting COVID-19: A Geometric Transformation Perspective](https://www.frontiersin.org/articles/10.3389/fmed.2021.629134/full#:~:text=10.3389%2Ffmed.2021.629134-,The%20Effectiveness%20of%20Image%20Augmentation%20in%20Deep%20Learning%20Networks%20for,19%3A%20A%20Geometric%20Transformation%20Perspective&text=Chest%20X%2Dray%20imaging%20technology,to%20other%20non%2Dinvasive%20technologies.) in order to increase the number of samples in the dataset. Then, I used the squeeze net architecture from [Deep-COVID: Predicting COVID-19 from chest X-ray images using deep transfer learning](https://pubmed.ncbi.nlm.nih.gov/32781377/) and trained the model.
+
+Here is our results:
+
+
+![Alt text](images/our_results.png "Optional title") 
+
+
+The Sensitivity and Specificity mesures are defined in the paper is following:
+
+![Alt text](images/measures.png "Optional title") 
