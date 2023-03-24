@@ -56,6 +56,6 @@ Here is our results:
 ![Alt text](images/our_results.png "Optional title") 
 
 
-The Sensitivity and Specificity mesures are defined in the paper is following:
+The Sensitivity and Specificity measures are defined in the paper as follows:
 
 ![Alt text](images/measures.png "Optional title") 
